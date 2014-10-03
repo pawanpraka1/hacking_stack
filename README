@@ -1,2 +1,2 @@
 Can one function access the local variable of other? No, right?
-Look the code and figure out how function "funa" is using local variable "i" of funb.
+Look at the code and figure out how function "funa" is using local variable "i" of funb.
