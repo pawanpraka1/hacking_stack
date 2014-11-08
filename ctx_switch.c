@@ -41,6 +41,7 @@ void funa(void)
 void funb(void)
 {
     int i = 0;
+    my_yeild(&actx);
     while (i++ < 20) {
         printf("b %d\n", i);
         sleep(1);
