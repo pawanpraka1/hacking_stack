@@ -1,2 +1,4 @@
 Can one function access the local variable of other? No, right?
-Look at the code and figure out how function "funa" is using local variable "i" of funb.
+Look at the code and figure out how function "funa" is using local variable "i" of funb. 
+
+To understand how the context switch works first go through stack_exploit (https://github.com/pawanpraka1/stack_exploit.git).
